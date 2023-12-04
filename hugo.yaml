@@ -1,4 +1,20 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Ethan Noble'
 theme: hextra
+menu:
+  main:
+    - name: Portfolio
+      pageRef: /portfolio
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: Contact
+      pageRef: /contact
+      weight: 3
+    - name: LinkedIn
+      weight: 4
+      url: "https://linkedin.com/in/ethan-noble/"
+      params:
+        icon: linkedin
