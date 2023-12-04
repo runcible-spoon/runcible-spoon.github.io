@@ -1,7 +1,7 @@
 ---
 title: "Init"
 date: 2023-12-03T17:25:19-05:00
-draft: true
+draft: false
 ---
 
 ## Installing themes
