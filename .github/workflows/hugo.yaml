@@ -52,10 +52,10 @@ jobs:
 #        uses: actions/setup-go@v4
 #        with:
 #          go-version: '1.21'
-#    - name: Setup Hugo
-#      uses: peaceiris/actions-hugo@v2
-#      with:
-#      extended: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+         extended: true
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
