@@ -2,6 +2,13 @@ baseURL: 'https://runcible-spoon.github.io'
 languageCode: 'en-us'
 title: 'Ethan Noble'
 theme: hextra
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer: 
+      unsafe: true
+    highlight: 
+      noClasses: false
 menu:
   main:
     - name: Portfolio

@@ -6,13 +6,13 @@ draft: false
 
 ## Success
 
-After many failed attempts, I've got the site live on Github Pages. It was very difficult to diagnose the problem because I didn't understand whatever language Github Actions are written in. I was pasting blindly the code for the .github/workflows yaml file, first from the [https://imfing.github.io/hextra/docs/guide/deploy-site/](Hextra theme docs), then from [https://gohugo.io/hosting-and-deployment/hosting-on-github/](Hugo's docs). 
+After many failed attempts, I've got the site live on Github Pages. It was very difficult to diagnose the problem because I didn't understand whatever language Github Actions are written in. I was pasting blindly the code for the .github/workflows yaml file, first from the [Hextra theme docs](https://imfing.github.io/hextra/docs/guide/deploy-site/), then from [Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
 
 Neither worked, and it took me making a Frankenstein of the two and commenting out sections one at a time, pushing, waiting for Actions to process and fail to figure out which parts needed to go and which should stay. I also had to play around with the version number which was a more obvious problem. 
 
 This was the code that ended up working: 
 
-```
+```yaml
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
