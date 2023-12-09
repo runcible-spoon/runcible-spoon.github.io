@@ -23,6 +23,4 @@ Representative sample of the work I've done documenting the customer relationshi
 
 A guide to bicycle maintenance, created as the final project toward an Advanced Technical Writing certificate. 
 
-[View PDF](/content/portfolio/UWEC-bicycle-doc.pdf)
-
-![](https://source.unsplash.com/featured/800x600?landscape)
+[View PDF](UWEC-bicycle-doc.pdf)
