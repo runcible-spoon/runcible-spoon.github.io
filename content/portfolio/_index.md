@@ -11,7 +11,7 @@ Representative sample of the work I've done documenting the customer relationshi
 
 - [Badge Printing](https://knowledge.technolutions.com/hc/en-us/articles/9191589346331)
 - [Dashboards](https://knowledge.technolutions.com/hc/en-us/articles/360032819152)
-#- [Slate Credits](https://knowledge.technolutions.com/hc/en-us/articles/15505347517723) 
+<!-- - [Slate Credits](https://knowledge.technolutions.com/hc/en-us/articles/15505347517723) -->
 - [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
 - [Datasets Overview](https://knowledge.technolutions.com/hc/en-us/articles/9916970138139-Datasets-Overview)
 - [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
