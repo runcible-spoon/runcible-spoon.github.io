@@ -32,8 +32,4 @@ I discovered these were made with shortcodes and looked into that. They're appar
 
 I toyed with the idea of an embedded contact form. Google Forms come through fine as an iFrame, but they look pretty jarring and don't match your selection of light/dark theme. So I think I'll take a page from Dodson's book and leave an email. 
 
-## Next up
 
-I need to think of a good way to display articles from ZenDesk. I'm not sure if any legal issues arise from screenshotting them... they're publicly-facing. I could just link out, and will include links, but those are impermanent and don't give you any visual razzle dazzle at a glance. Maybe I can export the docs as a PDF and render that on the site somehow. Probably more trouble than it's worth, if it's even doable. 
-
-Also worth considering if the docs I made for Savvy are worth including here.
