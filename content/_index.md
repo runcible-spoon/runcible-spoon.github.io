@@ -11,7 +11,7 @@ toc: false
 </div>
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  I'm a technical writer based in New Haven, Connecticut. In my current position at Technolutions, I document our higher ed CRM software, Slate. 
+  I'm a technical writer based in New Haven, Connecticut. In my current position at Technolutions, I document our customer relationship management software, Slate. 
 {{< /hextra/hero-subtitle >}}
 </div>
 <div class="mt-6"></div>
