@@ -24,7 +24,7 @@ toc: false
       title="Portfolio" 
       subtitle="View samples of my work." 
       icon="document"
-    style="background: radial-gradient(ellipse at 20% 100%,rgba(245,145,0, 0.3),hsla(0,0%,100%,0));" 
+    style="background: radial-gradient(ellipse at 20% 100%,rgba(124,254,240, 0.25),hsla(0,0%,100%,0));" 
 >}}
 
 
@@ -33,7 +33,7 @@ toc: false
         title="Blog"
         subtitle="Musings and a build log of this site."
         icon="newspaper"
-        style="background: radial-gradient(ellipse at 50% 100%,rgba(255,71,20, 0.3),hsla(0,0%,100%,0));" 
+        style="background: radial-gradient(ellipse at 50% 100%,rgba(44,234,163, 0.25),hsla(0,0%,100%,0));" 
 >}}
 
     {{< hextra/feature-card
@@ -41,6 +41,6 @@ toc: false
         title="Contact"
         subtitle="Get in touch."
         icon="chat"
-        style="background: radial-gradient(ellipse at 80% 100%,rgba(0,27,122,0.3),hsla(0,0%,100%,0));" 
+        style="background: radial-gradient(ellipse at 80% 100%,rgba(254,234,0,0.25),hsla(0,0%,100%,0));" 
 >}}
 {{< /hextra/feature-grid >}}
