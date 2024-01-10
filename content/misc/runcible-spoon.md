@@ -14,6 +14,6 @@ toc: false
 
 Over time the term came to mean "spork." 
 
-I saw first "runcible spoon" in Thomas Pynchon's *Gravity's Rainbow*, where, immediately following World War II, two US still overseas kill time by engaging in a makeshift knifefight with the implements. 
+I first saw "runcible spoon" in Thomas Pynchon's *Gravity's Rainbow*, where, immediately following World War II, two US seamen engage in a makeshift knifefight with the implements to pass the time. 
 
 I liked the way it sounded and made it my Github handle. This site is served by Github Pages, which by default places your username in the URL. You can [view the repo here](https://github.com/runcible-spoon/runcible-spoon.github.io).
