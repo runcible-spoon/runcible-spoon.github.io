@@ -16,7 +16,7 @@ Representative sample of the work I've done documenting the customer relationshi
 - [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
 - [Custom Personal Background Page](https://knowledge.technolutions.com/hc/en-us/articles/4709679781275) 
 - [Phase II: The Roadmap](https://knowledge.technolutions.com/hc/en-us/articles/14934120870299)
-- [Translation Code Import Source Fromat](https://knowledge.technolutions.com/hc/en-us/articles/360032920032)
+- [Translation Code Import Source Format](https://knowledge.technolutions.com/hc/en-us/articles/360032920032)
 
 ## University of Wisconsin Eau Claire 
 
