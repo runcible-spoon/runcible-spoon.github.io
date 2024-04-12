@@ -11,18 +11,16 @@ Here's a representative sample of the work I've done documenting the customer re
 
 ### Badge Printing
 
+- [Badge Printing](https://knowledge.technolutions.com/hc/en-us/articles/9191589346331)
+
 Slate lets you host events, and it lets you print attendee badges on demand for those events. This article walks you through:
 
 - How it works
 - The equipment and software you'll need to have
 - How to print an attendee badge
 
-[![Badge Printing article](resources/_gen/images/BadgePrinting "Badge Printing article link")](https://knowledge.technolutions.com/hc/en-us/articles/9191589346331)
+### More articles
 
-![](badgeprinting.png)
-
-
-- [Badge Printing](https://knowledge.technolutions.com/hc/en-us/articles/9191589346331)
 - [Dashboards](https://knowledge.technolutions.com/hc/en-us/articles/360032819152)
 - [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
 - [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
