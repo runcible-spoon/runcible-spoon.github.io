@@ -10,4 +10,5 @@ Topics covered:
 
 Projects: 
 - Full HTTP Networking Course
+- Launch School preparatory course
 

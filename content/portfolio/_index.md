@@ -3,6 +3,7 @@ title: "Portfolio"
 date: 2023-12-03T11:41:18-05:00
 draft: false
 toc: false
+index: false
 ---
 
 ## Technolutions
