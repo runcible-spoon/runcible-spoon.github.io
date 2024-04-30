@@ -2,6 +2,7 @@ baseURL: 'https://runcible-spoon.github.io'
 languageCode: 'en-us'
 title: 'Ethan Noble'
 theme: hextra
+googleAnalytics: 'G-DGXRRWSX15'
 
 enableInlineShortcodes: true
 
