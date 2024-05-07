@@ -10,6 +10,16 @@ index: false
 
 Here's a representative sample of the work I've done documenting the customer relationship manager Slate for my current company, Technolutions. 
 
+### Custom Datasets
+
+- [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
+
+I break down a complicated Slate process: creating a dataset. 
+
+A dataset is a recreation of the default person record data structure. To build one of their own, users need to touch many different tools in many different locations. 
+
+I give them a playbook at the top, and keep information streamlined and compartmentalized. 
+
 ### Badge Printing
 
 - [Badge Printing](https://knowledge.technolutions.com/hc/en-us/articles/9191589346331)
@@ -25,7 +35,6 @@ Slate lets you host events, and it lets you print attendee badges on demand for 
 - [Dashboards](https://knowledge.technolutions.com/hc/en-us/articles/360032819152)
 - [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
 - [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
-- [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
 - [Custom Personal Background Page](https://knowledge.technolutions.com/hc/en-us/articles/4709679781275) 
 - [Phase II: The Roadmap](https://knowledge.technolutions.com/hc/en-us/articles/14934120870299)
 - [Translation Code Import Source Format](https://knowledge.technolutions.com/hc/en-us/articles/360032920032)
