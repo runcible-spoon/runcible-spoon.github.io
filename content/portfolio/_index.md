@@ -10,6 +10,20 @@ index: false
 
 Here's a representative sample of the work I've done documenting the customer relationship manager Slate for my current company, Technolutions. 
 
+### Portal Components
+
+- [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
+
+Components let you create design elements with a locked-down range of configuration. 
+
+They used to be unique to Deliver, the communications tool in Slate, and as part of the Slate Summit 2023 feature release, their capabilities were extended to portals (microsites you can build in Slate). 
+
+This article details:
+
+- What components are
+- What they can do
+- How you can use them in portals
+
 ### Custom Datasets
 
 - [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
@@ -33,7 +47,6 @@ Slate lets you host events, and it lets you print attendee badges on demand for 
 ### More articles
 
 - [Dashboards](https://knowledge.technolutions.com/hc/en-us/articles/360032819152)
-- [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
 - [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
 - [Custom Personal Background Page](https://knowledge.technolutions.com/hc/en-us/articles/4709679781275) 
 - [Translation Code Import Source Format](https://knowledge.technolutions.com/hc/en-us/articles/360032920032)
