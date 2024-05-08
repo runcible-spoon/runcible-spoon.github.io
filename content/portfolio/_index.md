@@ -36,7 +36,6 @@ Slate lets you host events, and it lets you print attendee badges on demand for 
 - [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
 - [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
 - [Custom Personal Background Page](https://knowledge.technolutions.com/hc/en-us/articles/4709679781275) 
-- [Phase II: The Roadmap](https://knowledge.technolutions.com/hc/en-us/articles/14934120870299)
 - [Translation Code Import Source Format](https://knowledge.technolutions.com/hc/en-us/articles/360032920032)
 
 ## University of Wisconsin Eau Claire 
