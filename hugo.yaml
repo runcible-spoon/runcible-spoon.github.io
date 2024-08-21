@@ -2,9 +2,9 @@ baseURL: 'https://runcible-spoon.github.io'
 languageCode: 'en-us'
 title: 'Ethan Noble'
 theme: hextra
-services:
-  googleAnalytics:
-    ID: G-DGXRRWSX15
+# services:
+#  googleAnalytics:
+#    ID: G-DGXRRWSX15
 
 enableInlineShortcodes: true
 
