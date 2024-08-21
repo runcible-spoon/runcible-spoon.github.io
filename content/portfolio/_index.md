@@ -10,6 +10,12 @@ index: false
 
 Here's a representative sample of the work I've done documenting the customer relationship manager Slate for my current company, Technolutions. 
 
+### Person Record Matching Criteria
+
+- [Person Record Matching Criteria](https://knowledge.technolutions.net/docs/matching-criteria-for-person-records)
+
+The overall process that Slate takes to match a new person record coming into the database to existing ones is complicated. After consulting an engineer on the particulars, I added several graphics to this article to make the reader's experience of this process more intuitive. 
+
 ### Portal Components
 
 - [Portal Components](https://knowledge.technolutions.com/hc/en-us/articles/16516391511579)
@@ -24,30 +30,19 @@ This article details:
 - What they can do
 - How you can use them in portals
 
+
 ### Custom Datasets
 
-- [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
+- [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
 
-I break down a complicated Slate process: creating a dataset. 
+A dataset is a recreation of the default person record data structure. Users can build datasets of their own, a process which touches many different tools in many different locations.
 
-A dataset is a recreation of the default person record data structure. To build one of their own, users need to touch many different tools in many different locations. 
-
-I give them a playbook at the top, and keep information streamlined and compartmentalized. 
-
-### Badge Printing
-
-- [Badge Printing](https://knowledge.technolutions.com/hc/en-us/articles/9191589346331)
-
-Slate lets you host events, and it lets you print attendee badges on demand for those events. This article walks you through:
-
-- How it works
-- The equipment and software you'll need to have
-- How to print an attendee badge
+I created an overview video to demystify the purpose and workings of datasets. I also reconfigured this article to serve as a roadmap for the dataset section. 
 
 ### More articles
 
 - [Dashboards](https://knowledge.technolutions.com/hc/en-us/articles/360032819152)
-- [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
+- [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
 - [Custom Personal Background Page](https://knowledge.technolutions.com/hc/en-us/articles/4709679781275) 
 - [Translation Code Import Source Format](https://knowledge.technolutions.com/hc/en-us/articles/360032920032)
 
