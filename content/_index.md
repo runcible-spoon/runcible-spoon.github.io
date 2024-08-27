@@ -5,17 +5,17 @@ draft: false
 toc: false
 index: false
 ---
-<div class="mt-6 mb-6">
+<div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
   Ethan Noble
 {{< /hextra/hero-headline >}}
 </div>
-<div class="mb-12">
+<div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
   I'm a technical writer based in New Haven, Connecticut. In my current position at Technolutions, I document the CRM software Slate. 
 {{< /hextra/hero-subtitle >}}
 </div>
-<div class="mt-6"></div>
+<div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
 
@@ -47,8 +47,7 @@ index: false
 {{< /hextra/feature-grid >}}
 
 
-<div class="mt-6"></div>
-<div class="mt-6"></div>
+<div class="hx-mt-6"></div>
 
 
 {{< hextra/hero-badge 
