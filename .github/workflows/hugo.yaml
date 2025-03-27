@@ -4,7 +4,7 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: 
+    branches:
       - main
 
   # Allows you to run this workflow manually from the Actions tab
@@ -35,7 +35,7 @@ jobs:
       HUGO_VERSION: 0.113.0
     steps:
 #      - name: Install Hugo CLI
-#        run: | 
+#        run: |
 #          wget -0 ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
 #          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
@@ -64,9 +64,9 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://${{ github.repository_owner }}.github.io/"          
+            --baseURL "https://${{ github.repository_owner }}.github.io/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
