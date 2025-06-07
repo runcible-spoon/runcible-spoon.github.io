@@ -32,17 +32,6 @@ Slate can leverage Liquid markup to render communications and other content dyna
 
 Here, I break down the case tag in a way that's digestible to readers who may have limited web design experience.
 
-### More articles
-
-## More Slate content
-
-Additional documents I've contributed to the Slate Knowledge Base:
-
-- [Dashboards](https://knowledge.technolutions.com/hc/en-us/articles/360032819152)
-- [Datasets Overview](https://knowledge.technolutions.net/v1/docs/en/datasets-overview)
-- [Custom Datasets](https://knowledge.technolutions.com/hc/en-us/articles/360033050652-Creating-a-Custom-Dataset)
-- [Translation Codes](https://knowledge.technolutions.net/docs/translation-codes)
-
 ## University of Wisconsin Eau Claire
 
 A guide to bicycle maintenance, created as the final project toward an Advanced Technical Writing certificate.
